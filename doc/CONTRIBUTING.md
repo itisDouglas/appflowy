@@ -22,7 +22,7 @@ Consult the Table of Contents below, and jump to the desired section.
 
 ### Non-coded Contributions
 
-There can help in multiple ways - even if you don't write code, you can still give back your love to our community. Here are a few ideas:
+You can help in multiple ways - even if you don't write code, you can still give back your love to our community. Here are a few ideas:
 
 - Answer questions having ""General help wanted" labels on the [forum](https://github.com/AppFlowy-IO/appflowy/discussions)
 - Improve the documentation (WIP)
@@ -107,7 +107,7 @@ Let's encourage the behavior we want to see in the world and constantly foster a
 
 ## Sign the CLA Agreement
 
-That we do not have any potential problems later it is sadly necessary to sign a Contributor License Agreement. That can be done literally with the push of a button.
+So we do not have any potential problems later it is sadly necessary to sign a Contributor License Agreement. That can be done literally with the push of a button.
 
 We used the most simple one that exists. It is from Indie Open Source which uses plain English and is literally only a few lines long.
 
